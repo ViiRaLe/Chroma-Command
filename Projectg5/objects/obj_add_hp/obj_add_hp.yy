@@ -1,0 +1,81 @@
+{
+    "id": "0eb1f491-c1c1-4599-9aa7-4ca012383e86",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_add_hp",
+    "eventList": [
+        {
+            "id": "cd441470-1f53-4530-b3ba-22b377939dd2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0eb1f491-c1c1-4599-9aa7-4ca012383e86"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "c1e55aad-c7ac-48a0-9d8b-ae61687ef0f3",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "e774c7d3-ee1d-4d48-ae60-c1e748656b06",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-360",
+            "varName": "lerp_begin",
+            "varType": 0
+        },
+        {
+            "id": "e8f42002-b9ca-431b-8585-71be489f2c0f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "360",
+            "varName": "lerp_end",
+            "varType": 0
+        },
+        {
+            "id": "f8b03382-2200-4dcc-8529-2557f2bd22ce",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "lerp_amount",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "a82683bd-3d72-4106-8a2e-c9f29f57a0dd",
+    "visible": true
+}

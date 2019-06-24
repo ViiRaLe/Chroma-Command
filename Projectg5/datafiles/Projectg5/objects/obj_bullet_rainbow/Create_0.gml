@@ -1,0 +1,1 @@
+vspeed = -bullet_speed;

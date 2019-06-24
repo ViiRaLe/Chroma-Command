@@ -1,0 +1,1 @@
+runner_width = sprite_get_width(spr_runner_blue);
