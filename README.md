@@ -16,4 +16,4 @@ Tools: GameMaker Studio 2, Photoshop, GIMP
 
 Activities done: UI programming, gameplay programming, AI programming, Asset creation
 
-# [RELEASE](https://github.com/Chroma-Command/releases)
+# [RELEASE](https://github.com/ViiRaLe/Chroma-Command/releases)
